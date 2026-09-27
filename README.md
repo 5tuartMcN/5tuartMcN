@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**5tuartMcN/5tuartMcN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm 5tuartMcN 👋
 
-Here are some ideas to get you started:
+I'm an incoming Computer Science and AI undergraduate at LJMU, bridging software engineering with interests in fintech and Artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+* Building my programming fundamentals with Python & Java
+* Exploring MLOps and GPU model serving via NVIDIA platforms.
+* Exploring AI/ML, cloud computing, and software engineering.
+* Developing personal projects to build my portfolio.
+* Connecting with local tech startups and preparing for industry roles.
+
+### 🛠️ Tools I use
+* **Languages:** java, Python
+* **Frameworks:** React, Django
+* **Cloud:** AWS, Azure
+
+### 📫 How to reach me
+* **Email:** stuartmcneill846@outlook.com
+* **LinkedIn:** www.linkedin.com/in/5tuartmcn
+
